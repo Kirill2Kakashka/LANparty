@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LANparty</string>
+    <string name="app_tagline">Локальный мессенджер</string>
+    <string name="app_subtitle">Общайтесь без интернета — по Wi-Fi или Bluetooth</string>
+
+    <string name="search_devices">Поиск устройств</string>
+    <string name="accept_connection">Принять подключение</string>
+    <string name="search_devices_hint">Найти телефон рядом и начать чат</string>
+    <string name="accept_connection_hint">Стать видимым для другого устройства</string>
+    <string name="choose_connection">Выберите способ подключения</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="search_over_wifi_hint">Искать устройства в этой Wi-Fi сети</string>
+    <string name="search_over_bluetooth_hint">Найти видимое Bluetooth-устройство</string>
+    <string name="accept_over_wifi_hint">Ждать подключения по Wi-Fi</string>
+    <string name="accept_over_bluetooth_hint">Стать видимым для Bluetooth-поиска</string>
+
+    <string name="search_wifi_title">Поиск по Wi-Fi</string>
+    <string name="search_bluetooth_title">Поиск по Bluetooth</string>
+    <string name="accept_wifi_title">Ожидание по Wi-Fi</string>
+    <string name="accept_bluetooth_title">Ожидание по Bluetooth</string>
+    <string name="searching_devices">Поиск устройств…</string>
+    <string name="no_devices">Устройства не найдены.</string>
+    <string name="refresh">Обновить</string>
+    <string name="tap_device_hint">Нажмите на устройство, чтобы подключиться</string>
+    <string name="bluetooth_device">Bluetooth-устройство</string>
+    <string name="wifi_device">Устройство в Wi-Fi сети</string>
+
+    <string name="connecting">Подключение…</string>
+    <string name="waiting_connection">Ожидание подключения…</string>
+    <string name="waiting_wifi_hint">Убедитесь, что оба устройства подключены к одной Wi-Fi сети.</string>
+    <string name="waiting_bluetooth_hint">Bluetooth включён. Устройство видно для поиска около 5 минут.</string>
+    <string name="waiting_keep_open">Не закрывайте приложение, пока другое устройство ищет вас.</string>
+    <string name="cancel">Отмена</string>
+    <string name="stop_waiting">Остановить ожидание</string>
+
+    <string name="incoming_connection">Входящее подключение</string>
+    <string name="incoming_connection_question">Принять подключение от устройства «%1$s»?</string>
+    <string name="accept">Принять</string>
+    <string name="reject">Отклонить</string>
+
+    <string name="connection_failed">Не удалось подключиться.</string>
+    <string name="connection_rejected">Собеседник отклонил подключение.</string>
+    <string name="peer_did_not_answer">Собеседник не ответил. Попробуйте ещё раз.</string>
+    <string name="connection_error">Не удалось установить соединение. Проверьте, что устройства находятся рядом и подключены к одной сети.</string>
+    <string name="connection_lost">Соединение потеряно.</string>
+    <string name="peer_disconnected">Собеседник отключился.</string>
+    <string name="error">Ошибка</string>
+    <string name="ok">Понятно</string>
+    <string name="bluetooth_error">Не удалось включить Bluetooth или получить нужные разрешения. Проверьте настройки приложения.</string>
+    <string name="bluetooth_not_supported">Bluetooth не поддерживается на этом устройстве.</string>
+    <string name="bluetooth_discoverable_denied">Разрешите устройству быть видимым, иначе другие телефоны не смогут его найти.</string>
+    <string name="wifi_search_error">Не удалось начать поиск. Проверьте подключение к Wi-Fi.</string>
+    <string name="bluetooth_search_error">Не удалось начать поиск Bluetooth-устройств. Проверьте разрешения и включите геолокацию.</string>
+
+    <string name="settings">Настройки</string>
+    <string name="device_name">Имя устройства</string>
+    <string name="device_name_hint">Например, Мой телефон</string>
+    <string name="device_name_description">Так вас увидят другие устройства при подключении.</string>
+    <string name="dark_theme">Включить тёмную тему</string>
+    <string name="dark_theme_description">Тёмное оформление интерфейса</string>
+    <string name="sound_notifications">Уведомления со звуком</string>
+    <string name="sound_notifications_description">Звук при получении нового сообщения</string>
+    <string name="settings_footer">LANparty @YaNeKuryu</string>
+
+    <string name="chat_connected_wifi">Подключено по Wi-Fi</string>
+    <string name="chat_connected_bluetooth">Подключено по Bluetooth</string>
+    <string name="chat_empty_title">Соединение установлено</string>
+    <string name="chat_empty_text">Напишите первое сообщение, чтобы начать общение.</string>
+    <string name="message_hint">Сообщение…</string>
+    <string name="send">Отправить</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="disconnect_question">Отключиться от устройства «%1$s»?</string>
+
+    <string name="notification_channel_connection">Активное подключение</string>
+    <string name="notification_channel_connection_description">Уведомление о текущем подключении</string>
+    <string name="notification_channel_messages_sound">Сообщения со звуком</string>
+    <string name="notification_channel_messages_silent">Сообщения без звука</string>
+    <string name="notification_channel_messages_description">Уведомления о новых сообщениях</string>
+    <string name="notification_connected">Устройство %1$s подключено.</string>
+    <string name="notification_disconnect">Отключиться</string>
+    <string name="notification_peer_disconnected">Собеседник отключился.</string>
+</resources>
